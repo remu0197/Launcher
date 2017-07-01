@@ -1,0 +1,5 @@
+﻿タイトル：dsajidjdakeo
+開発年度：2015
+ジャンル：シューティング
+開発エンジン：DirectX
+説明：aaaaaaaa
